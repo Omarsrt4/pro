@@ -1,0 +1,9 @@
+﻿  Proyecto-EHRG.cpp
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(847,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1223,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1224,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1228,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1229,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1231,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Proyecto-EHRG\Proyecto-EHRG.cpp(1232,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto-EHRG.vcxproj -> A:\Zart Qrom\Objetos\Project\Proyecto-EHRG\Debug\Proyecto-EHRG.exe
